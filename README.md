@@ -19,8 +19,10 @@
 <br>
 
 **Example image:**
-![Fortune500 Example Screen 1](/assets/Fortune500_screen1.png)
+## **Standard**
+![MLB_Player_Stats_Processor_Standard 1](/assets/Fortune500_screen1.png)
 
 <br>
 
-![Fortune500 Example Screen 1](/assets/Fortune500_screen2.png)
+## **Pandas**
+![MLB_Player_Stats_Processor_Pandas 1](/assets/Fortune500_screen1.png)
