@@ -2,7 +2,9 @@
 
 ### Comprehensive Analysis of Major League Baseball Player Statistics with Data Fetching, Processing, and Advanced Metric Calculations
 
-###Repository
+### Repository Versions:
+1. **Standard Python Version**
+2. **Pandas Version**
 
 - Usage:
   - **If no CSV loaded, this program will default to using the API**
