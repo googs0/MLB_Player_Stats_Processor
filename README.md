@@ -3,8 +3,8 @@
 ### Comprehensive Analysis of Major League Baseball Player Statistics with Data Fetching, Processing, and Advanced Metric Calculations
 
 ### Repository Versions:
-1. **Standard Python Version**
-2. **Pandas Version**
+1. [**Standard Python Version**](https://github.com/googs0/MLB_Player_Stats_Processor/blob/main/sabermetrics_main_parallel.py)
+2. [**Pandas Version**](https://github.com/googs0/MLB_Player_Stats_Processor/blob/main/sabermetrics_pandas.py)
 
 - Usage:
   - **If no CSV loaded, this program will default to using the API**
