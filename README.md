@@ -1,4 +1,4 @@
-## MLB Player Stats Processor
+## MLB Sabermetric Player Hitting Stats Processor
 
 ### Explore, Analyze, and Visualize Baseball Hitting Metrics with Sabermetrics: A Python-based Toolkit for Player Comparison and Performance Evaluation
 
