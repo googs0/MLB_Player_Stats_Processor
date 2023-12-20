@@ -31,19 +31,13 @@ pip install -r requirements.txt
 
 <br>
 
-**Example image:**
-## **Standard**
-![MLB_Player_Stats_Processor_Standard 1](/assets/Saber_Standard1.png)
+### Example Images
+**_main.py**
+![saber1](/assets/Saber_Standard1.png)
 
 <br>
 
-![MLB_Player_Stats_Processor_Standard 2](/assets/Saber_Standard2.png)
+![saber2](/assets/Saber_Standard2.png)
 
 <br>
 
-## **Pandas**
-![MLB_Player_Stats_Processor_Pandas 1](/assets/Saber_Pandas1.png)
-
-<br>
-
-![MLB_Player_Stats_Processor_Pandas 2](/assets/Saber_Pandas2.png)
