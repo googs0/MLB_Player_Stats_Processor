@@ -2,8 +2,6 @@
 
 ### Explore, Analyze, and Visualize Baseball Hitting Metrics with Sabermetrics: A Python-based Toolkit for Player Comparison and Performance Evaluation
 
-<br>
-
 ### Overview
 - Player class
 - Comparison of players
@@ -23,7 +21,6 @@ git clone https://github.com/googs0/PlayerDataProcessorMLB.git
 pip install -r requirements.txt
 ```
 
-<br>
 
 ### External Libraries:
 - **Pandas**: Data manipulation and analysis
