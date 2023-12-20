@@ -21,11 +21,18 @@ pip install -r requirements.txt
 
 <br>
 
-### External Libraries:
+### External Libraries
 - **Pandas**: Data manipulation and analysis
 - **Numpy**: Math operations with arrays
 - **Plotly Express**: Interactive graphs
 - **Tabulate**: Print tabular data
+
+<br>
+
+### Files Included
+- _main.py
+- 2015-2023-baseball-stats.csv
+- requirements.txt
 
 <br>
 <br>
