@@ -28,6 +28,7 @@ pip install -r requirements.txt
 - **Tabulate**: Print tabular data
 
 <br>
+<br>
 
 ### Example Images
 **_main.py**
