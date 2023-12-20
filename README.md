@@ -7,6 +7,10 @@
 ```
 git clone https://github.com/googs0/PlayerDataProcessorMLB.git
 ```
+
+```
+pip install -r requirements.txt
+```
     
 - External libraries: concurrent.features, cachetools, pandas, requests
     
