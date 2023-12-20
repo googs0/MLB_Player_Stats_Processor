@@ -8,8 +8,6 @@
 - Finding stat leaders 
 - Plots
 
-<br>
-
 ### Usage
 **Clone the repo**
 ```
@@ -20,8 +18,6 @@ git clone https://github.com/googs0/PlayerDataProcessorMLB.git
 ```
 pip install -r requirements.txt
 ```
-
-<br>
 
 ### External Libraries:
 - **Pandas**: Data manipulation and analysis
